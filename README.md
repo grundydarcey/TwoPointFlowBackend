@@ -1,6 +1,6 @@
-# Express Boilerplate!
+# Two Point Flo
 
-This is a boilerplate project used for starting new projects!
+This full-stack project aims to help people with their menstruation, planning and health.
 
 ## Set up
 
